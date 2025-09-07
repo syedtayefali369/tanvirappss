@@ -1,5 +1,5 @@
 
-# Tanveer - Full Stack Web Developer
+# Tanvir Hossain - Full Stack Web Developer
 <img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/36068d4d-7c31-4de5-ac4f-4f88a23e8be9" />
 
 ## 👨‍💻 About Me
@@ -8,7 +8,7 @@ I'm a passionate Full Stack Web Developer with expertise in creating dynamic, re
 <img width="1000" height="10" alt="image" src="https://github.com/user-attachments/assets/36068d4d-7c31-4de5-ac4f-4f88a23e8be9" />
 
 **What I bring to the table:**
-- 3+ years of professional web development experience
+- 5+ years of professional web development experience
 - Expertise in modern JavaScript frameworks and libraries
 - Strong problem-solving skills and attention to detail
 - Commitment to writing clean, maintainable code
@@ -105,7 +105,7 @@ A responsive weather application that provides current and forecasted weather da
 ### Bachelor of Computer Science
 **University of Technology** | 2015 - 2019
 - Specialized in Web Technologies and Software Engineering
-- Graduated with Honors (GPA: 3.8/4.0)
+- Graduated with Honors (GPA: 3.5/4.0)
 
 ### Certifications
 - AWS Certified Developer Associate
