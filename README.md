@@ -124,12 +124,8 @@ I'm constantly expanding my skill set. Currently focused on:
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-- **Portfolio:** [tanveer.dev](https://tanveer.dev)
-- **Email:** hello@tanveer.dev
-- **LinkedIn:** [linkedin.com/in/tanveer](https://linkedin.com/in/tanveer)
-- **Twitter:** [@tanveercodes](https://twitter.com/tanveercodes)
-- **GitHub:** [github.com/tanveer](https://github.com/tanveer)
-
----
-
-⭐️ From [Tanveer](https://github.com/tanveer)
+- **Portfolio:** [https://tanvirh-dev.netlify.app/](https://tanvirh-dev.netlify.app/)
+- **Email:** tanvir.hossain.ads@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/tanvir-hossain-chem](https://www.linkedin.com/in/tanvir-hossain-chem)
+- **Twitter:** [@tanvirx](https://x.com/veeer4u)
+- **GitHub:** [https://github.com/tanvirappss](https://github.com/tanvirappss)
